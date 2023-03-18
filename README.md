@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Frontend development, Backend development, Speed coding**
 
-- 📫 How to reach me **jgtutorme@gmail.com**
+- 📫 How to reach me **jamesongoldstein16@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/jgtutorme](https://github.com/jgtutorme)
 

@@ -9,21 +9,17 @@
 
 - 🌱 I’m currently learning **Next JS 16, Blockchain, DevOps**
 
-- 👯 I’m looking to collaborate on **working remotely and also big projects**
+- 👥 I'm looking to collaborate **on big projects**
 
-- 🤝 I’m looking for help with **finding full time jobs**
+- 🤝 I’m looking to **find a full time job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jgtutorme](https://github.com/jgtutorme)
-
-- 📝 I regularly write articles on [https://medium.com/?source=---two_column_layout_nav----------------------------------](https://medium.com/?source=---two_column_layout_nav----------------------------------)
 
 - 💬 Ask me about **Frontend development, Backend development, Speed coding**
 
 - 📫 How to reach me **jamesongoldstein16@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jgtutorme](https://github.com/jgtutorme)
-
-- ⚡ Fun fact **I do enjoy programming and sports like football, hockey etc.**
+- ⚡ Fun fact **I enjoy programming and activities like hiking and skiing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
